@@ -1,0 +1,26 @@
+# Python virtual environment folder
+.venv/
+
+# macOS system files
+.DS_Store
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Django migrations (optional: can be committed, but usually ignored)
+*/migrations/
+
+# VS Code workspace settings
+.vscode/
+
+# Byte-compiled / optimized / DLL files
+*.pyc
+*.pyo
+*.pyd
+
+# Logs
+*.log
+
+# Database files
+db.sqlite3
